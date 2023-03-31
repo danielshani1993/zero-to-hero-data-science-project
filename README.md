@@ -1,6 +1,7 @@
 # zero-to-hero-Data-Science-Project
 
 This is The final project I field for my Data Science 101 course in my college. 
+The project made my @nirmolcho and @danielshani
 
 ## Part 1: Scrapping 
 in this section, we had to scrape hotels websites like Booking and Expedia 
